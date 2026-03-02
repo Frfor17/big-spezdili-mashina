@@ -9,7 +9,8 @@
 # also cool feature to make is like, make it possible to easily to add to your build the ghost hud
 # like i mean, one button and now your build have ghost hud
 
-
+# or trenches
+# like - one button and now your build have trenches
 
 
 

@@ -12,6 +12,7 @@
 # or trenches
 # like - one button and now your build have trenches
 
+# or human ai
 
 
 

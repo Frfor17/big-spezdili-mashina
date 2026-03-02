@@ -6,6 +6,9 @@
 # чтобы к примеру можно было добавить окопы в свой билд
 
 
+# also cool feature to make is like, make it possible to easily to add to your build the ghost hud
+# like i mean, one button and now your build have ghost hud
+
 
 
 
